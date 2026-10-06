@@ -29,7 +29,9 @@ const anil = {
     databases: ["MySQL", "MongoDB"],
     cms: ["WordPress", "Elementor", "WooCommerce"]
   },
-  specializes: ["ERP", "HRMS", "CRM", "Inventory Management", "REST APIs"],
+  integrations: ["Webhooks", "Twilio", "UltraMsg (WhatsApp API)", "Anthropic Claude AI", "Telegram API"],
+  hosting: ["cPanel / WHM", "Hostinger hPanel", "VPS (Contabo)", "Linux"],
+  specializes: ["ERP", "HRMS", "CRM", "Inventory Management", "REST APIs", "Third-party API Integrations"],
   currentlyExploring: "Agentic AI 🤖",
   passion: "Building scalable, production-ready solutions"
 };
@@ -65,6 +67,21 @@ const anil = {
 <p>
   <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,postman&theme=dark" alt="tools" />
 </p>
+
+### 🔌 APIs & Integrations
+![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhooks&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![UltraMsg](https://img.shields.io/badge/UltraMsg_(WhatsApp_API)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### ☁️ Hosting & Server Management
+![cPanel](https://img.shields.io/badge/cPanel_/_WHM-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Hostinger hPanel](https://img.shields.io/badge/Hostinger_hPanel-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS_(Contabo)-00457C?style=for-the-badge&logo=serverfault&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FileZilla](https://img.shields.io/badge/FileZilla_/_FTP-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 
 ### 🤖 Exploring / Learning
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
