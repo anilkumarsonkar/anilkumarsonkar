@@ -80,6 +80,8 @@ const anil = {
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
+| 🏥 **[GlobalCare ERP / HRMS](https://erp.globalcarehealth.net/)** 🔴 Live | Laravel · MySQL · Bootstrap | Production ERP & HRMS platform for GlobalCare Health — lead management, user & role-based access control, and reporting dashboards. |
+| 🤖 **[4rx Automation Platform](http://4rx.co/app)** 🔴 Live | PHP · MySQL · Telegram API · Cron | Live messaging-automation system with a background worker and scheduled bulk campaigns for the 4rx platform. |
 | 📦 **UPPTCL Inventory Management System** | PHP · CodeIgniter · MySQL · Bootstrap | Web-based inventory system with Purchase Order & MRN modules, role-based access, and reporting dashboard. |
 | 📱 **CEPL HRMS Application** | React Native · PHP · MySQL | Cross-platform HRMS app for attendance, leave management, approval workflows & HR analytics. |
 | 🛡️ **Zanifest Insurance Platform** | Next.js · React.js · Node.js · MongoDB | Modern insurance platform with policy management, secure auth, SSR, and REST API integrations. |
