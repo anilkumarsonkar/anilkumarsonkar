@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/anilkumarsonkar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E95E8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+CodeIgniter+Developer;MERN+Stack+Developer;Building+ERP%2C+HRMS+%26+CRM+Systems;Exploring+Agentic+AI+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E95E8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+CodeIgniter+Developer;MERN+Stack+Developer;Building+ERP%2C+HRMS+%26+CRM+Systems;Building+AI-Powered+Automation+%F0%9F%A4%96;Exploring+Agentic+AI+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -38,6 +38,7 @@ const anil = {
 ```
 
 - 🔭 I'm a **Full Stack Developer** with **2+ years** of experience building scalable web & mobile apps.
+- 🤖 I build **AI-powered automation** into production systems — using **Anthropic Claude**, Twilio, UltraMsg & webhooks to run workflows end-to-end.
 - 🏗️ I build **ERP, HRMS, CRM, and Inventory Management** systems with secure, scalable **RESTful APIs**.
 - ⚡ Skilled in both **MERN** and **PHP full-stack** development.
 - 🤖 Currently exploring **Agentic AI** — autonomous agents, LLM-powered workflows, and AI integrations.
